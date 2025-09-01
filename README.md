@@ -6,7 +6,7 @@ This repository contains an application created for drawing and analysing simple
 - Automatically create n-star graphs and k-complete graphs of sizes up to 16
 - Attempt to find the Chromatic number yourself using the colouring tool
 
-![Alt text of the image](https://github.dev/Modeller-123/Graph-Analysis/blob/main/Pic%201.png)
+![Alt text of the image](https://raw.githubusercontent.com/Modeller-123/Graph-Analysis/main/Pic1.png)
 
 ## Analysing Graphs:
 - Degree information (minimum, maximum, and average)
