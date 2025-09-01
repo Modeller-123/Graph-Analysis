@@ -6,7 +6,7 @@ This repository contains an application created for drawing and analysing simple
 - Automatically create n-star graphs and k-complete graphs of sizes up to 16
 - Attempt to find the Chromatic number yourself using the colouring tool
 
-![Alt text of the image](https://raw.githubusercontent.com/Modeller-123/Graph-Analysis/main/Pic1.png)
+<img src="https://github.com/Modeller-123/Graph-Analysis/blob/82b526a340b994106ee1b9a1e319de982e503c4d/Pic%201.png" alt="Drawing Graphs GUI" width="500"/>
 
 ## Analysing Graphs:
 - Degree information (minimum, maximum, and average)
@@ -16,5 +16,8 @@ This repository contains an application created for drawing and analysing simple
 - Diameter, girth, circumference, and distance
 - Chromatic colouring
 - Planar information
+
+<img src="https://github.com/Modeller-123/Graph-Analysis/blob/82b526a340b994106ee1b9a1e319de982e503c4d/Pic%201.png" alt="Drawing Graphs GUI" width="500"/>
+<img src="https://github.com/Modeller-123/Graph-Analysis/blob/82b526a340b994106ee1b9a1e319de982e503c4d/Pic%201.png" alt="Drawing Graphs GUI" width="500"/>
 
 In the future I plan to optimise the GUI code further using additional functions to prevent unnecessary repetition.
